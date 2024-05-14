@@ -10,4 +10,4 @@ Hi there 👋🏾 welcome to my Github! I'm a newcomer to the world of programmi
 
 🚀 I believe in continuous growth, embracing challenges, and enjoying the journey of becoming a proficient C# developer.
 
-📫 Let's <a href="https://www.instagram.com/i.am.jessee/">connect </a> and learn together! Feel free to reach out—I'm always up for inspiring conversations and collaborative projects. 
+📫 Let's <a href="https://www.instagram.com/i.am.jessee/">connect </a> and learn together!
