@@ -1,8 +1,10 @@
 # Jesse Bullard
 
 **`Tech Enthusiast/Nerd/Musican`**
-<img src="(https://github.com/iamjessee/iamjessee/blob/main/enterprise.gif)">
 
+
+ <img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="alt text" width="whatever" height="whatever">
+![enterprise]()
 
 Hi there 👋🏾 welcome to my Github! I'm a newcomer to the world of programming and currently focused on learning C#. My journey into coding is fueled by curiosity and a genuine passion for technology.
 
