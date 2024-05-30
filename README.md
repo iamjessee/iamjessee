@@ -1,9 +1,17 @@
 # Jesse Bullard
 
 **`Tech Enthusiast/Nerd/Musican`**
+<style>
+   .img - container {
+   text - align: center;
+display: block;
+}
+</style>
 
+
+< div class= "img-container" >
 <img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="100" height="100">
-
+</div>
 Hi there 👋🏾 welcome to my Github! I'm a newcomer to the world of programming and currently focused on learning C#. My journey into coding is fueled by curiosity and a genuine passion for technology.
 
 🌱 I'm currently exploring the exciting world of C# and .NET development, eager to sharpen my skills and build meaningful projects.
