@@ -2,6 +2,8 @@
 
 **`Tech Enthusiast/Nerd/Musican`**
 
+![enterprise](https://github.com/iamjessee/iamjessee/assets/36571821/b5115248-55dd-4f4a-9c21-b541f58fc39a)
+
 Hi there 👋🏾 welcome to my Github! I'm a newcomer to the world of programming and currently focused on learning C#. My journey into coding is fueled by curiosity and a genuine passion for technology.
 
 🌱 I'm currently exploring the exciting world of C# and .NET development, eager to sharpen my skills and build meaningful projects.
