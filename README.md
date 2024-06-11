@@ -11,4 +11,4 @@ Hi there 👋🏾 welcome to my Github! I'm a newcomer to the world of programmi
 
 🚀 I believe in continuous growth, embracing challenges, and enjoying the journey of becoming a proficient C# developer.
 
-📫 Let's <a href="https://www.linkedin.com/in/jr-bullard/">connect </a> and learn together! <a href="jessebullard1996@gmail.com">Email</a>
+📫 Let's <a href="https://www.linkedin.com/in/jr-bullard/">connect </a> and learn together! <a href="mailto:jessebullard1996@gmail.com">Email</a>
