@@ -25,4 +25,4 @@ I believe in continuous improvement and learning through hands-on experience. I 
 
 ### 📫 Let’s Connect!
 I'm always open to collaboration and feedback. Feel free to reach out if you'd like to connect, discuss ideas, or have a project I might contribute to.
-<a href="https://www.linkedin.com/in/jr-bullard/">LinkedIn |</a><a href="mailto:jessebullard1996@gmail.com"> Email</a>
+<a href="https://www.linkedin.com/in/iamjessee/">LinkedIn |</a><a href="mailto:jessebullard1996@gmail.com"> Email</a>
