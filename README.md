@@ -21,7 +21,7 @@ I’m currently working on complex, real-world projects that incorporate front-e
 ### 💻 Professional Aspirations:
 I'm currently working on complex, real-world projects that incorporate front-end and back-end development. My notable projects include:
 - Investment Tracker - Real-time stock data integration
-- 🔍 Review API Application - RESTful service implementation
+- Review API Application - RESTful service implementation
 - Various CRUD Applications - Demonstrating database management skills
 
 ### 🚀 My Approach:
