@@ -1,7 +1,7 @@
 # Jesse Bullard
 
 **`Tech Enthusiast/C# Developer/Aspiring Full Stack Engineer`**
-<img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="40" height="40">
+<img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="30" height="30">
 
 Hi there 👋🏾 Welcome to my GitHub! Over the past year, I've been diving deep into programming, focusing on C# and .NET development, and now expanding my knowledge into web development with JavaScript, React, and TypeScript. My journey is driven by curiosity, a love for problem-solving, and a commitment to building quality software.
 
