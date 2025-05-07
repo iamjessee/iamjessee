@@ -1,6 +1,6 @@
 # Jesse Bullard
 
-**`Tech Enthusiast/C# Developer/Aspiring Full Stack Engineer`**
+**`DevOps Engineer | macOS Automation | Infrastructure-as-Code Enthusiast`**
 <img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="30" height="30">
 
 👋🏾 Welcome! I'm Jesse, currently a DevOps contractor at Microsoft, focused on automating and maintaining macOS infrastructure. I'm driven by a passion for automation, and building systems that work seamlessly behind the scenes.
