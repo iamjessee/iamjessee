@@ -14,7 +14,7 @@ var skills = new {
     Tools = new[] { "Azure DevOps", "Git", "SQL Server", "PostgreSQL" }
 };
 ```
-### 🌱 Current Focus  
+### 🪴 Current Focus  
 I'm focused on DevOps engineering and macOS infrastructure automation. At work, I use Chef, Vagrant, and Ruby to provision virtual machines and streamline configuration workflows. On GitHub, I’m building a portfolio of small backend projects and scripts as I continue to sharpen my automation and API development skills.
 
 ### 📫 Let’s Connect!
