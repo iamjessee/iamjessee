@@ -9,7 +9,7 @@
 ```csharp
 var skills = new {
     Automation = new[] { "Chef", "Vagrant", "Parallels", "CI/CD" },
-    LanguagesAndScripting = new[] { "Ruby", "Shell", "C#", "JavaScript", "HTML", "CSS" },
+    LanguagesAndScripting = new[] { "Ruby", "Shell", "C#", "Python" },
     Frameworks = new[] { "ASP.NET Core", "Entity Framework", "React" },
     Tools = new[] { "Azure DevOps", "Git", "SQL Server", "PostgreSQL" }
 };
