@@ -11,7 +11,7 @@ var skills = new {
     Automation = new[] { "Chef", "Vagrant", "Parallels", "CI/CD" },
     LanguagesAndScripting = new[] { "Ruby", "Shell", "C#", "Python" },
     Frameworks = new[] { "ASP.NET Core", "Entity Framework", "React" },
-    Tools = new[] { "Azure DevOps", "knife", "Git", "SQL Server", "PostgreSQL" }
+    Tools = new[] { "Azure DevOps", "Knife", "Git", "SQL Server", "PostgreSQL" }
 };
 ```
 ### 🪴 Current Focus  
