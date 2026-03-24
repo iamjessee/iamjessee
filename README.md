@@ -3,7 +3,7 @@
 **`DevOps / Infrastructure Engineer | macOS Automation | CI/CD`**
 <img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="35" height="35">
 
-👋🏾 Hey — I'm Jesse. I work as a DevOps contractor at Microsoft, focused on automating and maintaining macOS infrastructure at scale.
+👋🏾 Hey I'm Jesse, I work as a DevOps contractor at Microsoft, focused on automating and maintaining macOS infrastructure at scale.
 
 I manage and improve systems supporting **900+ hosts and 1,800+ VMs**, with a focus on reliability, automation, and CI/CD. Most of my work centers around fixing broken systems, stabilizing pipelines, and reducing manual effort through automation.
 
