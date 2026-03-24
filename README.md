@@ -1,21 +1,23 @@
 # Jesse Bullard
 
-**`DevOps Engineer | macOS Automation | Infrastructure-as-Code`**
-<img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="30" height="30">
+**`DevOps / Infrastructure Engineer | macOS Automation | CI/CD`**
+<img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="35" height="35">
 
-👋🏾 Welcome! I'm Jesse, currently a DevOps contractor at Microsoft, focused on automating and maintaining macOS infrastructure. I'm driven by a passion for automation, and building systems that work seamlessly behind the scenes.
+👋🏾 Hey — I'm Jesse. I work as a DevOps contractor at Microsoft, focused on automating and maintaining macOS infrastructure at scale.
+
+I manage and improve systems supporting **900+ hosts and 1,800+ VMs**, with a focus on reliability, automation, and CI/CD. Most of my work centers around fixing broken systems, stabilizing pipelines, and reducing manual effort through automation.
 
 ### 🔧 Technical Stack:
-```csharp
-var skills = new {
-    Automation = new[] { "Chef", "Vagrant", "Parallels", "CI/CD" },
-    LanguagesAndScripting = new[] { "Ruby", "Shell", "C#", "Python" },
-    Frameworks = new[] { "ASP.NET Core", "Entity Framework", "React" },
-    Tools = new[] { "Azure DevOps", "Knife", "Git", "SQL Server", "PostgreSQL" }
-};
+```python
+skills = {
+  "Infrastructure": ["Packer", "Vagrant", "Parallels", "macOS VM Lifecycle"],
+    "Automation": ["Chef", "Bash", "Ruby", "Python"],
+    "CI/CD": ["Azure DevOps", "YAML Pipelines"],
+    "Cloud": ["Azure CLI", "Blob Storage", "Entra ID (RBAC)"],
+    "Containers": ["Docker"],
+    "Systems": ["macOS", "Linux", "Windows" "Networking (DNS, DHCP, TCP/IP)"]
+}
 ```
-### 🪴 Current Focus  
-I'm focused on DevOps engineering and macOS infrastructure automation. At work, I use Chef, Vagrant, and Ruby to provision virtual machines and streamline configuration workflows. On GitHub, I’m building a portfolio of small backend projects and scripts as I continue to sharpen my automation and API development skills.
 
 ### 📫 Let’s Connect!
 I'm always open to collaboration and feedback. Feel free to reach out if you'd like to connect, discuss ideas, or have a project I might contribute to.
