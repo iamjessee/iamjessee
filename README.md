@@ -1,7 +1,7 @@
 # Jesse Bullard
 
 **`DevOps / Infrastructure Engineer | macOS Automation | CI/CD`**
-<img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="40" height="40" style="margin-top: 30px;">
+<img src="https://github.com/iamjessee/iamjessee/assets/36571821/9fd3995e-fbfc-4d78-a799-6928e28dd881" alt="cartoon Enterprise from Star Trek" width="40" height="40" style="vertical-align: middle;">
 
 👋🏾 Hey I'm Jesse, I work as a DevOps contractor at Microsoft, focused on automating and maintaining macOS infrastructure at scale.
 
